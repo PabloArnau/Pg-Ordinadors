@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(34, 32, 32);
+    color: #fff;
+}
+
+h1 {
+    color: #e01010;
+}
+
+p {
+    color: #e6d00e;
+}
+  
+  /* Contenedor principal */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilo del encabezado */
+  .header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Estilo del contenido */
+  .content {
+    margin-top: 20px;
+  }
+  
+  /* Estilo de la imagen de la pieza del ordenador */
+  .computer-piece-img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+  }
+  
+  /* Estilo del texto descriptivo */
+  .description {
+    margin-top: 20px;
+    line-height: 1.6;
+  }
+  
+  /* Estilo del pie de página */
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
